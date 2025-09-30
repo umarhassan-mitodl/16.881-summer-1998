@@ -4,6 +4,8 @@ description: The Context of Robust Design and the Principles of Quality Engineer
 file: /courses/16-881-robust-system-design-summer-1998/af317d0d0727210fa7a6cc52f94d4912_HW3_Context.pdf
 file_size: 120216
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

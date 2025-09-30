@@ -4,6 +4,8 @@ description: Plan for the Session
 file: /courses/16-881-robust-system-design-summer-1998/6122f7b6e278b5ad814e3aeebf190938_l11_cad2.pdf
 file_size: 308751
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

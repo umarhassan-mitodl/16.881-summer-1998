@@ -4,6 +4,8 @@ description: Matrix Experiments Using Orthogonal Arrays
 file: /courses/16-881-robust-system-design-summer-1998/57cca07d96ee7f3b2933e24727761594_l3_matrix_experiments4.pdf
 file_size: 182412
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

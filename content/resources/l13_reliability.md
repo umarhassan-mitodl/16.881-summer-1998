@@ -4,6 +4,8 @@ description: Lecture 13 Reliability
 file: /courses/16-881-robust-system-design-summer-1998/20a08b2382d2c2ee80773678f0d992e7_L13_Reliability.pdf
 file_size: 226884
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

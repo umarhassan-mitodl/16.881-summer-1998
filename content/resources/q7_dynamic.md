@@ -4,6 +4,8 @@ description: 'Quiz #7: Design of Dynamic Systems'
 file: /courses/16-881-robust-system-design-summer-1998/5b90120102e69bab895e70fdffc2ad32_q7_dynamic.pdf
 file_size: 80564
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

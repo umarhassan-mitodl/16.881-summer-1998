@@ -4,6 +4,8 @@ description: Letters 6
 file: /courses/16-881-robust-system-design-summer-1998/06f2139a9fc16bbbc4d6e2087a8cb5e6_letters6.mcd
 file_size: 32977
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Standard Orthogonal Arrays
 file: /courses/16-881-robust-system-design-summer-1998/4c5c4f68ca83169d69e1a1c2ff0685a0_orthogonalarrays.pdf
 file_size: 42725
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

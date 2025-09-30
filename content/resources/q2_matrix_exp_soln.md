@@ -4,6 +4,8 @@ description: 'Solution to Quiz #2: Matrix Experiments'
 file: /courses/16-881-robust-system-design-summer-1998/ffc06726d49ff9b0f498c3aaf5940ad6_q2_matrix_exp_soln.pdf
 file_size: 134720
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'NOISE EXPERIMENT: Catapult Lab'
 file: /courses/16-881-robust-system-design-summer-1998/bbfcc875f14417431ef87c1d701398e6_catapult_l4_static_anova.xls
 file_size: 136704
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

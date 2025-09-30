@@ -4,6 +4,8 @@ description: Solutions
 file: /courses/16-881-robust-system-design-summer-1998/c352cf1f88f67b114311f2abd5d0ceeb_SOLN2_quality_loss.mcd
 file_size: 136917
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

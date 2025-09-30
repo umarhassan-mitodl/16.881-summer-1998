@@ -4,6 +4,8 @@ description: 'Quiz #1: The Principles of Robust Design'
 file: /courses/16-881-robust-system-design-summer-1998/62f416a1ea6a14f785e9b93c3ee529a4_q1_principles.pdf
 file_size: 69105
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

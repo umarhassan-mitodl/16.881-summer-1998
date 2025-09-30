@@ -4,6 +4,8 @@ description: Quality Loss Functions
 file: /courses/16-881-robust-system-design-summer-1998/eaaf812565c0de74f7233410d311d795_HW2_Quality_lossv2.pdf
 file_size: 99509
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

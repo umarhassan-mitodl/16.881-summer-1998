@@ -4,6 +4,8 @@ description: 'Course Introduction: Probability, Statistics and Quality Loss'
 file: /courses/16-881-robust-system-design-summer-1998/2d6abd13517ad85e70f032b1674e83cd_l1_quality_loss_v6.pdf
 file_size: 507482
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

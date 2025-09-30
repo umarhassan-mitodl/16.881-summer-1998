@@ -4,6 +4,8 @@ description: Robust Design and Reliability
 file: /courses/16-881-robust-system-design-summer-1998/5150ede10c19896f3dedef9e2127c6c8_HW9_reliability2.pdf
 file_size: 94678
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

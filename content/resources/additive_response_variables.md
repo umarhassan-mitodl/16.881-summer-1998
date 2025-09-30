@@ -5,6 +5,8 @@ description: Selection of Quality Characteristics in the Context of Taguchi?s Ad
 file: /courses/16-881-robust-system-design-summer-1998/1a948ad19f81936c70be7252a2cb6f5d_additive_response_variables.pdf
 file_size: 184079
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
