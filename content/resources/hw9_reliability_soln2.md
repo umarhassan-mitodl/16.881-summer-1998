@@ -4,8 +4,6 @@ description: 'Solutions to Homework #9'
 file: /courses/16-881-robust-system-design-summer-1998/96d036ff5b60cfd43ab352d33fdc1349_HW9_reliability_soln2.pdf
 file_size: 1413432
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

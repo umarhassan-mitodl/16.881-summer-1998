@@ -4,8 +4,6 @@ description: 'PARAMETER DESIGN EXPERIMENT: Helicopter Exercise'
 file: /courses/16-881-robust-system-design-summer-1998/5ddbb5b778de975ab61934f029884aa7_helicopter_l8_97_ex.xls
 file_size: 117248
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

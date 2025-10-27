@@ -4,8 +4,6 @@ description: Corr_monte
 file: /courses/16-881-robust-system-design-summer-1998/73e281f8e45b5019eeac8140d7fd4c16_corr_monte.mcd
 file_size: 4303
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

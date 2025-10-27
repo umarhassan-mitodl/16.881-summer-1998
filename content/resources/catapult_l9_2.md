@@ -4,8 +4,6 @@ description: Catapult L9 2
 file: /courses/16-881-robust-system-design-summer-1998/44ba950461e1876d977a0e2199a2a665_catapult_l9_2.xls
 file_size: 59904
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

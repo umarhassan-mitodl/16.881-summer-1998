@@ -4,8 +4,6 @@ description: The Concept of Noise in Robust Design
 file: /courses/16-881-robust-system-design-summer-1998/a6268083e5050652db48179e56b28905_the_concept_of_noise_in_robust_design.pdf
 file_size: 141963
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

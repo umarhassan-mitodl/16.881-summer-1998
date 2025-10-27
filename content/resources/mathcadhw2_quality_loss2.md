@@ -4,8 +4,6 @@ description: Exploration of the Quadratic Loss Function
 file: /courses/16-881-robust-system-design-summer-1998/42b2518fe5b1cba64b226b377cf782cc_MathcadHW2_quality_loss2.pdf
 file_size: 49010
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

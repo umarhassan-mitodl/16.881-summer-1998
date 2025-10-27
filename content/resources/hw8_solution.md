@@ -4,8 +4,6 @@ description: Temperature Controller Simulation
 file: /courses/16-881-robust-system-design-summer-1998/58bbb72401532bf6a08c34bc0f657e1e_HW8_solution.pdf
 file_size: 571508
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

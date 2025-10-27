@@ -4,8 +4,6 @@ description: Final Project Questions
 file: /courses/16-881-robust-system-design-summer-1998/65bc88aa5301646a8346801bbc3a5cf0_l16_mahalanobis2.pdf
 file_size: 314239
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

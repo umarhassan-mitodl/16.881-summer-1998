@@ -4,8 +4,6 @@ description: 'Analysis of Variance: ANOVA'
 file: /courses/16-881-robust-system-design-summer-1998/91368a385ca86f8e958cdf7600845dac_l7_anova4.pdf
 file_size: 321577
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
